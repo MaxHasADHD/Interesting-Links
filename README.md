@@ -5,6 +5,9 @@
 
 [How to create custom Xcode instruments](http://desappstre.com/how-to-custom-instruments-xcode/)
 
+### iOS 13
+[The Comprehensive Guide to iOS Context Menus](https://kylebashour.com/posts/context-menu-guide)
+
 ### Falsehoods
 [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 
